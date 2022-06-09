@@ -2,6 +2,7 @@
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
+active: true
 
 # This file represents a page section.
 headless: true
@@ -9,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Featured Publications
+title: Featured Project
 subtitle: ''
 
 content:
