@@ -10,9 +10,8 @@ role: Epidemiology PhD candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Columbia University
-     Mailman School of Public Health
-    url: https://publichealth.columbia.ed
+  - name: Columbia University,  Mailman School of Public Health
+    url: https://publichealth.columbia.edu
 
 # Short bio (displayed in user profile at end of posts)
 #bio: Alex Perlmutter's research focuses on the unintended consequences of nicotine vaping. In his dissertation, he is developing a conceptual model of nicotine vaping's potential effects on cannabis and other substance initiation among adolescents as they age into young adulthood. He is incorporating state of the science estimation approaches in his work and hopes, which he hopes will add to knowledge about vaping and its potential harms.
