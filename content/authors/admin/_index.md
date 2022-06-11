@@ -10,7 +10,7 @@ role: Epidemiology PhD candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Columbia University,  Mailman School of Public Health
+  - name: Columbia University<br/>  Mailman School of Public Health
     url: https://publichealth.columbia.edu
 
 # Short bio (displayed in user profile at end of posts)
