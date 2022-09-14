@@ -23,10 +23,10 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Senior epidemiologist
-    company: NoviSci
-    company_url: 'https://www.novisci.com'
-    company_logo: novisci
-    location: Raleigh (remote in NY)
+    company: Target RWE
+    company_url: 'https://www.targetrwe.com'
+    company_logo: targetrwe
+    location: Durham, NC (remote in NY)
     date_start: '2022-07-01'
     date_end: ''
     description: |2-
