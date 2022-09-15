@@ -42,8 +42,10 @@
   
 ---
 
-Correction for potential (in)dependent nondifferential misclassification in Aim 1 of dissertation
+Correction for potential independent nondifferential misclassification in Aim 1 of dissertation
 
-<iframe width="700" height="500" src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
+<iframe width="700" height="600" src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
+
+Correction for potential independent nondifferential misclassification in Aim 1 of dissertation
 
 <iframe width="700" height="800" src="https://6zkiod-alexperlmutter.shinyapps.io/DNDM/"></iframe>
