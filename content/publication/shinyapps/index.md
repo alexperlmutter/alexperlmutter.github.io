@@ -37,7 +37,7 @@ publication: In *development*
 #tags: [ATE, ipsi, vaping, shift estimand, positivity]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
