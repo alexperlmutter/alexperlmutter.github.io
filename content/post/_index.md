@@ -1,9 +1,9 @@
 ---
-widget: blank
+widget: posts
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Posts
+title: Apps
 subtitle:
 weight: 10  # section position on page
 design:
