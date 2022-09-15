@@ -32,15 +32,14 @@
 #  - admin
 #  - 吳恩達
 
-#tags:
-#  - Academic
-#  - 开源
+tags:
+  - Academic
+  - 开源
 
-#categories:
-#  - Demo
-#  - 教程
-
-Click for Shiny apps  
+categories:
+  - Demo
+  - 教程
+  
 ---
 
 <iframe width="700" height="500" src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
