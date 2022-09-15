@@ -13,9 +13,6 @@ main:
   - name: Publications
     url: '#publications'
     weight: 50
-  - name: Apps
-    url: '#apps'
-    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
