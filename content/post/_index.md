@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Apps
 cms_exclude: true
 
 # View.
@@ -7,6 +7,8 @@ cms_exclude: true
 #   2 = Compact
 #   3 = Card
 view: 2
+
+<iframe src="URL https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
 
 # Optional header image (relative to `static/media/` folder).
 header:
