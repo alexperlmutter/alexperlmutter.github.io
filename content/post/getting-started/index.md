@@ -40,10 +40,10 @@ categories:
   - Demo
   - 教程
   
-<iframe src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
+<iframe width="560" height="315" src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
 ---
 
-<iframe src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
+<iframe width="560" height="315" src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
 
 {{ < iframe src= "https://6zkiod-alexperlmutter.shinyapps.io/INDM2/" ></iframe>, title= "The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
