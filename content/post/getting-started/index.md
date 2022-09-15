@@ -39,6 +39,8 @@ tags:
 categories:
   - Demo
   - 教程
+  
+<iframe src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
 ---
 
 <iframe src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
