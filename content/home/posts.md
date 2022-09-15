@@ -38,7 +38,7 @@ design:
   columns: '2'
 ---
 
-Click here to access the my dissertation Shiny apps page.
+Click here to access the page with my dissertation's Shiny apps.
 
 <iframe width="700" height="650" src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
 
