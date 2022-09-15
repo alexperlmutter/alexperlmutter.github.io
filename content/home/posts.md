@@ -38,8 +38,12 @@ design:
   columns: '2'
 ---
 
-Click here to access the page with my dissertation's Shiny apps.
+Correction for potential independent nondifferential misclassification in Aim 1 of dissertation
 
 <iframe width="700" height="650" src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
+
+<br>
+
+Correction for potential independent nondifferential misclassification in Aim 1 of dissertation
 
 <iframe width="700" height="800" src="https://6zkiod-alexperlmutter.shinyapps.io/DNDM/"></iframe>
