@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Apps
 cms_exclude: true
 
 # View.
