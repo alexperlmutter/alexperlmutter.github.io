@@ -44,7 +44,9 @@
 
 Correction for potential independent nondifferential misclassification in Aim 1 of dissertation
 
-<iframe width="700" height="600" src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
+<iframe width="700" height="650" src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
+
+<br>
 
 Correction for potential independent nondifferential misclassification in Aim 1 of dissertation
 
