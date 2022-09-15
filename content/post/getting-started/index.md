@@ -41,7 +41,9 @@ categories:
   - 教程
 ---
 
-{{ < iframe src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/" ></iframe>, title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+<iframe src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
+
+{{ < iframe src= "https://6zkiod-alexperlmutter.shinyapps.io/INDM2/" ></iframe>, title= "The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
 < figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." > }}
 
