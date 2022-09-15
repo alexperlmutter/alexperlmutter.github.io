@@ -10,7 +10,7 @@ headless: false
 # Order that this section appears on the page.
 weight: 60
 
-title: Dissertation apps
+title: Apps
 subtitle:
 
 content:
@@ -37,9 +37,8 @@ design:
   view: compact
   columns: '2'
 ---
+Click here to access the Apps page.
 
 <iframe width="700" height="650" src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
-
-<br>
 
 <iframe width="700" height="800" src="https://6zkiod-alexperlmutter.shinyapps.io/DNDM/"></iframe>
