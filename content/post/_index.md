@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Apps
+title: Posts
 subtitle:
 weight: 10  # section position on page
 design:
