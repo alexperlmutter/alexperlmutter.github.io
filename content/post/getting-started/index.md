@@ -42,4 +42,4 @@ categories:
   
 ---
 
-<iframe width="560" height="315" src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
+<iframe width="700" height="500" src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
