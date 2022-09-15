@@ -42,4 +42,6 @@ categories:
   
 ---
 
+Click here for Shiny apps
+
 <iframe width="700" height="500" src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
