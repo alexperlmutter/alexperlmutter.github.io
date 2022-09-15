@@ -42,6 +42,7 @@
   
 ---
 
-My dissertation apps<iframe width="700" height="650" src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
+My dissertation Shiny apps
+<iframe width="700" height="650" src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
 
 <iframe width="700" height="800" src="https://6zkiod-alexperlmutter.shinyapps.io/DNDM/"></iframe>
