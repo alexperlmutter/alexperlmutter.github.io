@@ -40,7 +40,6 @@ categories:
   - Demo
   - 教程
   
-<iframe width="560" height="315" src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
 ---
 
 <iframe width="560" height="315" src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
