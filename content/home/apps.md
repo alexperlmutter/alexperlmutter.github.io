@@ -1,7 +1,7 @@
 ---
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
+widget: featured
 active: true
 
 # This file represents a page section.
@@ -10,8 +10,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Apps showing corrections for potential (in)dependent nondifferential misclassification of nicotine vaping
-subtitle: 'Dissertation Aim 1'
+title: Apps
+subtitle: 'Corrections for potential (in)dependent nondifferential misclassification of nicotine vaping'
 
 content:
   # Page type to display. E.g. post, talk, publication...
