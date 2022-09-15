@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: posts
+widget: pages
 active: true
 
 # This file represents a page section.

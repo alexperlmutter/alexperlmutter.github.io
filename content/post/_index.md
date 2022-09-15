@@ -1,16 +1,15 @@
 ---
-widget: posts
-headless: true
+title: Posts
+cms_exclude: true
 
-# ... Put Your Section Options Here (title etc.) ...
-title: Apps
-subtitle:
-weight: 10  # section position on page
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 3
+
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ''
+  image: ''
 ---
-
-<iframe src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
-
- 
