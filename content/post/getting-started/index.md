@@ -42,6 +42,6 @@
   
 ---
 
-Click here for Shiny apps
+Correcting for potential (in)dependent nondifferential misclassification in Aim 1 of dissertation
 
 <iframe width="700" height="500" src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
