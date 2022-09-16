@@ -39,7 +39,7 @@ design:
 ---
 
 {{% callout note %}}
-Click here to go to [apps](./apps/).
+Click here to go to [apps](./post/).
 {{% /callout %}}
 
 <iframe width="700" height="650" src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
