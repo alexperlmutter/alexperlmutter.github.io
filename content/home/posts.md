@@ -39,7 +39,7 @@ design:
 ---
 
 {{% callout note %}}
-Click here to go to [apps](./post/).
+Click here to go to [apps](./post/ndm_vaping/).
 {{% /callout %}}
 
 <iframe width="700" height="650" src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
