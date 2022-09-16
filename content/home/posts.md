@@ -38,6 +38,10 @@ design:
   columns: '2'
 ---
 
+{{% callout note %}}
+Click here to go to [apps](./apps/).
+{{% /callout %}}
+
 <iframe width="700" height="650" src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
 
 <iframe width="700" height="800" src="https://6zkiod-alexperlmutter.shinyapps.io/DNDM/"></iframe>
