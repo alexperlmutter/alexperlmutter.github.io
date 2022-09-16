@@ -1,5 +1,5 @@
 ---
-#title: Welcome to Wowchemy, the website builder for Hugo
+title: 'My dissertation Shiny apps'
 #subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial #content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
@@ -42,7 +42,6 @@
   
 ---
 
-My dissertation Shiny apps
 
 <iframe width="700" height="650" src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
 
