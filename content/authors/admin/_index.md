@@ -54,9 +54,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/alexperlmutter
-  - icon: cv
-    icon_pack: ai
-    link: uploads/cv_mar_2023.pdf
+  #- icon: cv
+  #  icon_pack: ai
+  #  link: uploads/cv_mar_2023.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
