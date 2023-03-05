@@ -6,30 +6,29 @@ title: Alex Perlmutter
 superuser: true
 
 # Role/position/tagline
-role: Epidemiology PhD candidate
+role: Senior Epidemiologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Columbia University
-  - name: Mailman School of Public Health
-    url: https://publichealth.columbia.edu
+  - name: Target RWE
+    url: https://www.targetrwe.com
 
 # Short bio (displayed in user profile at end of posts)
-#bio: Alex Perlmutter's research focuses on the unintended consequences of nicotine vaping. In his dissertation, he is developing a conceptual model of nicotine vaping's potential effects on cannabis and other substance initiation among adolescents as they age into young adulthood. He is incorporating state of the science estimation approaches in his work and hopes, which he hopes will add to knowledge about vaping and its potential harms.
+#bio: Alex Perlmutter is an accomplished epidemiologist, who specializes in the principled use and development of advanced causal inference methods for answering questions in substance use, dermatology, and cancer. He obtained his PhD from Columbia University in 2023. Alex's dissertation answered questions about the potential unintended consequences of vaping among adolescents as they age into young adulthood.
 
 # Interests to show in About widget
 interests:
-  - Epidemiological methods
   - Mediation
-  - Data science
-  - Vaping
+  - Real-world evidence
+  - Dermatology
+  - Advanced non-small cell lung cancer
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Epidemiology
       institution: Columbia University
-      year: Expected summer 2022
+      year: 2023
     - course: MPH in Epidemiology
       institution: Columbia University
       year: 2016
