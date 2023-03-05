@@ -42,8 +42,8 @@ experience:
     company_logo: mailman
     location: New York
     date_start: '2017-08-01'
-    date_end: '2022-06-30'
-    description: Completing dissertation on nicotine vaping's unintended consequences. Performed teaching assistant duties for numerous epidemiology and statistics courses.
+    date_end: '2023-03-28'
+    description: Completed doctoral epidemiology training and dissertation on nicotine vaping's unintended consequences. Performed teaching assistant duties for numerous epidemiology and statistics courses.
 
 design:
   columns: '2'
