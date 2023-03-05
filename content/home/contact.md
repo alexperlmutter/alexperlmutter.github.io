@@ -27,13 +27,13 @@ content:
   # Contact details (edit or remove options as required)
   #email: asp2183@cumc.columbia.edu
   #phone: 888 888 88 88
-  address:
-    street: 722 West 168th St.
-    city: New York
-    region: NY
-    postcode: '10032'
-    country: United States
-    country_code: US
+  #address:
+  #  street: 722 West 168th St.
+  #  city: New York
+  #  region: NY
+  #  postcode: '10032'
+  #  country: United States
+  #  country_code: US
   #coordinates:
   #  latitude: '37.4275'
   #  longitude: '-122.1697'
