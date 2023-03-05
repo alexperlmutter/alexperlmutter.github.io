@@ -65,7 +65,7 @@ email: ''
 highlight_name: true
 ---
 
-Alex Perlmutter's research focuses on the unintended consequences of nicotine vaping. In his dissertation, he is developing a conceptual model of nicotine vaping's potential effects on cannabis and other substance initiation among adolescents as they age into young adulthood. He is incorporating state of the science estimation approaches in his work and hopes, which he hopes will add to knowledge about vaping and its potential harms.
+Alex Perlmutter is an accomplished epidemiologist, who specializes in the principled use and development of advanced causal inference methods for answering questions in substance use, dermatology, and cancer. He obtained his PhD from Columbia University in 2023. Alex's dissertation answered questions about the potential unintended consequences of vaping among adolescents as they age into young adulthood.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_jan_22.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_mar_23.pdf" "newtab" >}}CV{{< /staticref >}}.
 
