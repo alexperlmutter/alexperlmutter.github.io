@@ -21,9 +21,9 @@ feature:
     icon_pack: fab
     name: R
   - description:
-    icon: calculator
+    icon: project-diagram
     icon_pack: fas
-    name: Statistics
+    name: Study design
   - description:
     icon: line-chart
     icon_pack: fas
