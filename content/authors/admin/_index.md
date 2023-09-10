@@ -68,3 +68,5 @@ Alex Perlmutter is an accomplished epidemiologist, who specializes in the princi
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_july_23.pdf" "newtab" >}}CV{{< /staticref >}}.
 
+# CV file must come from static folder
+
