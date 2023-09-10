@@ -22,6 +22,7 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+#   Put files in static/uploads folder.
 item:
   - certificate_url: uploads/ser_2019_award.jpg
     #date_end: '2019-06-21'
