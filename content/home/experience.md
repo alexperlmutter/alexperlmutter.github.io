@@ -43,7 +43,7 @@ experience:
     company: Columbia University
     company_url: 'https://www.publichealth.columbia.edu/'
     company_logo: mailman
-    location: New York
+    location: New York, NY
     date_start: '2017-08-01'
     date_end: '2023-03-28'
     description: 

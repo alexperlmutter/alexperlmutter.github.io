@@ -47,8 +47,8 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/gimmeperl
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=1j1s44cAAAAJ&hl=en
   - icon: github
     icon_pack: fab
@@ -64,7 +64,7 @@ email: ''
 highlight_name: true
 ---
 
-Alex Perlmutter is an accomplished epidemiologist, who specializes in the principled use and development of advanced causal inference methods for answering pharmacepideiological research questions in numerous therapeutic areas. He obtained his PhD from Columbia University in 2023. Alex's dissertation answered questions about the potential unintended consequences of vaping among adolescents as they age into young adulthood.
+Alex Perlmutter is an accomplished epidemiologist, who specializes in the principled use and development of advanced causal inference methods for answering pharmacepideiological research questions in numerous therapeutic areas. Since joining TargetRWE, his main roles are designing and conducting dermatology and oncology studies, the latter being those on high risk non-muscle invasive bladder and advanced non small cell lung cancer. Alex received an MPH and a PhD in Epidemiology from Columbia University Mailman School of Public Health where he had formal training epidemiological methods with a primary focus on causal inference methods. Prior to joining TargetRWE, he was completing his PhD at Columbia where his substantive research focused on substance use problems among adolescents and emerging adults, and his methods work focused on strategies to overcome violations of causal inference assumptions.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_july_23.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_jult_23.pdf" "newtab" >}}CV{{< /staticref >}}.
 
