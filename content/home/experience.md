@@ -36,7 +36,7 @@ experience:
         * Implementing advanced causal inference methods to surmount common problems in pharmacoepidemiological analyses
           * Clone censor weight approach for left censoring
           * Inverse probability of censoring weight approach for informative right censoring
-          * Prevalent new user design for non-contemporaneous marketing in comparative effectiveness studies)
+          * Prevalent new user design for non-contemporaneous marketing in comparative effectiveness studies
         * Writing proposals and developing presentations to help TargetRWE win new contracts and continue existing ones
 
   - title: Doctoral candidate
