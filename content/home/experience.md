@@ -32,8 +32,11 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Designing pharmacoepidemiological studies with claims and electronic health record data, including studies with integrating both types of data, mainly in hepatology, dermatology, and oncology therapeutic areas
-        * Implementing advanced causal inference methods to surmount common problems in pharmacoepidemiological analyses (e.g., clone censor weight approach to address left censoring, inverse probability of censoring weight approach to address informative right censoring, prevalent new user design to address non-contemporaneous marketing in comparative effectiveness studies)
+        * Designing pharmacoepidemiological hepatology, dermatology, and oncology studies with claims and electronic health record data, including studies that integrate both types of data
+        * Implementing advanced causal inference methods to surmount common problems in pharmacoepidemiological analyses
+          * Clone censor weight approach for left censoring
+          * Inverse probability of censoring weight approach for informative right censoring
+          * Prevalent new user design for non-contemporaneous marketing in comparative effectiveness studies)
         * Writing proposals and developing presentations to help TargetRWE win new contracts and continue existing ones
 
   - title: Doctoral candidate
