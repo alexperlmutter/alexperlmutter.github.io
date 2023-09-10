@@ -46,7 +46,11 @@ experience:
     location: New York
     date_start: '2017-08-01'
     date_end: '2023-03-28'
-    description: Completed doctoral epidemiology training and dissertation on nicotine vaping's unintended consequences. Performed teaching assistant duties for numerous epidemiology and statistics courses.
+    description: 
+    |2-
+        Responsibilities included:
+        * Completed doctoral epidemiology training and dissertation on nicotine vaping's unintended consequences
+        * Performed teaching assistant duties for numerous epidemiology and statistics courses
 
 design:
   columns: '2'

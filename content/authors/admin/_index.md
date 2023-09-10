@@ -18,10 +18,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Mediation
-  - Real-world evidence
-  - Dermatology
-  - Advanced non-small cell lung cancer
+  - Linking claims and clinical data
+  - Causal inference methods in pharmacepidemiology
+  - Oncology pharmacoepidemiology research
 
 # Education to show in About widget
 education:
@@ -56,7 +55,7 @@ social:
     link: https://github.com/alexperlmutter
   #- icon: cv
   #  icon_pack: ai
-  #  link: uploads/cv_mar_2023.pdf
+  #  link: uploads/cv_july_2023.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
