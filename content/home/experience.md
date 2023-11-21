@@ -34,7 +34,7 @@ experience:
         
         * Designing pharmacoepidemiological hepatology, dermatology, and oncology studies with claims and electronic health record data, including studies that integrate both types of data
         * Implementing advanced causal inference methods to surmount common problems in pharmacoepidemiological analyses
-          * Clone censor weight approach for left censoring
+          * Clone censor weight approach to address immortal time bias due to the start of follow-up and treatment initiation not coinciding
           * Inverse probability of censoring weight approach for informative right censoring
           * Prevalent new user design for non-contemporaneous marketing in comparative effectiveness studies
         * Writing proposals and developing presentations to help Target RWE win new contracts and continue existing ones
