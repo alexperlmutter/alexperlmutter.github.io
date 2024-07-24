@@ -20,7 +20,7 @@ organizations:
 interests:
   - Linking claims and clinical data
   - Causal inference methods in pharmacepidemiology
-  - Oncology pharmacoepidemiology research
+  - Osteoporosis and bone pharmacoepidemiology
 
 # Education to show in About widget
 education:
