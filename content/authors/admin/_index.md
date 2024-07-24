@@ -6,12 +6,12 @@ title: Alex Perlmutter
 superuser: true
 
 # Role/position/tagline
-role: Senior Epidemiologist
+role: Observational Research Manager
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Target RWE
-    url: https://www.targetrwe.com
+  - name: Amgen
+    url: https://www.amgen.com
 
 # Short bio (displayed in user profile at end of posts)
 #bio: Alex Perlmutter is an accomplished epidemiologist, who specializes in the principled use and development of advanced causal inference methods for answering questions in substance use, dermatology, and cancer. He obtained his PhD from Columbia University in 2023. Alex's dissertation answered questions about the potential unintended consequences of vaping among adolescents as they age into young adulthood.
