@@ -22,6 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Observational Research Manager
+    company: Amgen
+    company_url: 'https://www.amgen.com'
+    company_logo: targetrwe
+    location: Thousand Oaks, CA (remote in NY)
+    date_start: '2022-07-15'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Designing pharmacoepidemiological hepatology, dermatology, and oncology studies with claims and electronic health record data, including studies that integrate both types of data
+        * Implementing advanced causal inference methods to surmount common problems in pharmacoepidemiological analyses
+          * Clone censor weight approach to address immortal time bias due to the start of follow-up and treatment initiation not coinciding
+          * Inverse probability of censoring weight approach for informative right censoring
+          * Prevalent new user design for non-contemporaneous marketing in comparative effectiveness studies
+        * Writing proposals and developing presentations to help Target RWE win new contracts and continue existing ones
+
   - title: Senior epidemiologist
     company: Target RWE
     company_url: 'https://www.targetrwe.com'
