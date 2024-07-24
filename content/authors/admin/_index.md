@@ -66,4 +66,4 @@ highlight_name: true
 
 I am an accomplished epidemiologist, who specializes in the principled use and development of advanced causal inference methods for answering pharmacepideiological research questions in numerous therapeutic areas. In the real-world evidence space, I have designed and conducted dermatology and oncology studies, the latter being those on high-risk non-muscle invasive bladder and advanced non-small cell lung cancer. I am currently an Observational Research Manager at Amgen contributing to studies that shape the benefit/risk profile of our bone products. I received an MPH and a PhD in Epidemiology from Columbia University Mailman School of Public Health where I had formal training epidemiological methods with a primary focus on causal inference methods.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_may_24.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_july_24.pdf" "newtab" >}}CV{{< /staticref >}}.
