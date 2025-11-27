@@ -14,5 +14,5 @@ publication_types:
 abstract: ''
 featured: false
 publication: '*American Journal of Epidemiology*'
-url_pdf: "uploads/Pkwae189.pdf"
+url_pdf: "uploads/kwae189.pdf"
 ---
