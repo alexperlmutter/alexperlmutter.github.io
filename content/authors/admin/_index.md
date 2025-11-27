@@ -14,7 +14,7 @@ organizations:
     url: https://www.amgen.com
 
 # Short bio (displayed in user profile at end of posts)
-#bio: Alex Perlmutter is an accomplished epidemiologist, who specializes in the principled use and development of advanced causal inference methods for answering questions in substance use, dermatology, and cancer. He obtained his PhD from Columbia University in 2023. Alex's dissertation answered questions about the potential unintended consequences of vaping among adolescents as they age into young adulthood.
+#bio: Alex Perlmutter is an accomplished epidemiologist, who specializes in the principled use and development of advanced causal inference methods for answering questions in substance use, dermatology, and cancer. He obtained his PhD from Columbia University in 2023. Alex currently works at Amgen, a large biotech company, where he supports the bone health franchises's generation of real-world evidence on the safety profile of Evenity and related regulatory engagements.
 
 # Interests to show in About widget
 interests:
@@ -64,6 +64,6 @@ email: ''
 highlight_name: true
 ---
 
-I am an accomplished epidemiologist, who specializes in the principled use and development of advanced causal inference methods for answering pharmacepideiological research questions in numerous therapeutic areas. In the real-world evidence space, I have designed and conducted dermatology and oncology studies, the latter being those on high-risk non-muscle invasive bladder and advanced non-small cell lung cancer. I am currently an Observational Research Manager at Amgen contributing to studies that shape the benefit/risk profile of our bone products. I received an MPH and a PhD in Epidemiology from Columbia University Mailman School of Public Health where I had formal training epidemiological methods with a primary focus on causal inference methods.
+I am an accomplished epidemiologist, who specializes in the principled use and development of advanced causal inference methods for answering pharmacepideiological research questions in numerous therapeutic areas. Alex currently works at Amgen, a large biotech company, where he supports the bone health franchises's generation of real-world evidence on the benefit:risk  profile of bone products and related regulatory engagements. Prior to joining Amgen, I was an epidemiologist at Target RWE, where I generated real-world evidence studies in the dermatology and oncology therapeutic areas. I received an MPH and a PhD in Epidemiology from Columbia University Mailman School of Public Health where I had formal training epidemiological methods with a primary focus on causal inference methods.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_july_24.pdf" "newtab" >}}CV{{< /staticref >}}.

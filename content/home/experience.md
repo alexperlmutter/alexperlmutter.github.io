@@ -30,7 +30,7 @@ experience:
     date_start: '2024-07-15'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Major responsibilities include:
         
         * Designed pharmacoepidemiological studies that generated real-world evidence (RWE) about the benefit:risk profile of latest generation bone health products
           * Leading design and protocol/statistical analysis plan (SAP) authorship of negative control outcomes (NCO) study using Medicare and Optum claims databases to support treatment group comparability for eventual noninterventional comparative safety study
@@ -46,7 +46,7 @@ experience:
     company_logo: targetrwe
     location: Durham, NC (remote in NY)
     date_start: '2022-07-01'
-    date_end: '2022-07-04'
+    date_end: '2024-07-04'
     description: |2-
         Responsibilities included:
         
