@@ -15,6 +15,6 @@ publication_types:
 abstract: ''
 featured: false
 publication: '*Journal of Psychiatric Research*'
-url_pdf: "uploads/Perlmutter-2020-Identification-of-patient-perceptio.pdf"
+url_pdf: "uploads/Gutkind-2023-associations.pdf"
 ---
 
