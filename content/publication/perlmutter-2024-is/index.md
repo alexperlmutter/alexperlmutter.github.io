@@ -22,7 +22,7 @@ decreased risks of cannabis or other substance initiation; these associations st
 (2018-2019), cannabis and other substance initiation risks were 6.2 (95% CI, 4.6-7.7) and 1.8 (95% CI, 0.4-3.2) percentage points lower when
 odds of nicotine vaping were reduced to be 90% lower in all preceding waves (2013-2014 to 2016-2018), as compared with observed risks.
 Strategies to lower nicotine vaping prevalence during this period may have resulted in fewer young people initiating cannabis and other
-substances'
+substances.'
 featured: false
 publication: '*American Journal of Epidemiology*'
 url_pdf: "uploads/perlmutter-2024-is.pdf"
