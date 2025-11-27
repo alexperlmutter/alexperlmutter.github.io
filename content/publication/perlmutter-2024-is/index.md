@@ -25,5 +25,5 @@ Strategies to lower nicotine vaping prevalence during this period may have resul
 substances'
 featured: false
 publication: '*American Journal of Epidemiology*'
-url_pdf = "perlmutter-2024-is.pdf"
+url_pdf = "uploads/perlmutter-2024-is.pdf"
 ---
