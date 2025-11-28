@@ -33,18 +33,12 @@ experience:
         Major responsibilities include:
         
         * Regulatory Real-World Evidence (RWE) & PMR Leadership
-        
-        
           * Led design and authorship of FDA-required studies, including a post-marketing requirement final report, NCO study protocols/SAPs, and algorithms validating 3-point MACE and CV mortality using Medicare–REGARDS linked data
           * Developed and led the clean-room gating framework with quantitative assessments of potential unmeasured confounding to support upcoming comparative safety work
           * Conducted multiple ad-hoc analyses integrating claims and biometric EHR data through multiple imputation and transportability methods, demonstrating negligible unmeasured confounding due to biometric covariates in upcoming claims-only safety study
           * Ran simulation studies evaluating bias from nondifferential outcome misclassification and applied validation-based adjustments to recover true effects
           * Authored several regulatory briefing documents and RTQ responses, ensuring methodological clarity and alignment with FDA expectations
-        
-        
         * Additional Regulatory, Methodological, and Cross-Functional Contributions
-        
-        
           * Co-led protocol development for the Effectiveness NCO study, aligning core design elements with the Safety NCO study and adding two new negative control outcomes
           * Supported global regulatory needs through regulator-mandated safety analyses across U.S. and Japan datasets, identifying cross-regional methodological efficiencies
           * Contributed to Japan PMO/MOP work through study feasibility assessments and creation of an R Shiny app for automated power/sample size estimation across multiple testing frameworks
