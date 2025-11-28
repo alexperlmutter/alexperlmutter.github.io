@@ -30,6 +30,7 @@ experience:
     date_start: '2024-07-15'
     date_end: ''
     description: |2-
+        Major responsibilities include:
         
         * Regulatory Real-World Evidence (RWE) & PMR Leadership
         
