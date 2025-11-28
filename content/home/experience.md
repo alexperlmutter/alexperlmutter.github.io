@@ -32,13 +32,22 @@ experience:
     description: |2-
         Major responsibilities include:
         
-        * Designed pharmacoepidemiological studies that generated real-world evidence (RWE) about the benefit:risk profile of latest generation bone health products
-          * Leading design and protocol/statistical analysis plan (SAP) authorship of negative control outcomes (NCO) study using Medicare and Optum claims databases to support treatment group comparability for eventual noninterventional comparative safety study
-          * Leading clean room/gating framework design to maintain data/scientific integrity during conduct of NCO study through comparative safety study
-          * Led design and protocol/SAP authorship of validation study of algorithm to identify 3-point major adverse cardiovascular events (MACE) in administrative claims data using Medicare-REGARDS linked data
-          * Led analyses that integrated biometric electronic health record data into claims analysis through multiple imputation and transportability framework
-          * Led simulation analyses examining impact of nondifferential misclassification of 3-point MACE on bias towards the null, using validation data to adjust for bias
-          * Led authorship of briefing documents and responses to questions to biopharmaceutical regulators with RWE-supported recommendations
+        * Regulatory Real-World Evidence (RWE) & PMR Leadership
+          * Led design and authorship of FDA-required studies, including a post-marketing requirement final report, NCO study protocols/SAPs, and algorithms validating 3-point MACE and CV mortality using Medicare–REGARDS linked data
+          * Developed and led the clean-room gating framework with quantitative assessments of potential unmeasured confounding to support upcoming comparative safety work
+          * Conducted multiple ad-hoc analyses integrating claims and biometric EHR data through multiple imputation and transportability methods, demonstrating negligible unmeasured confounding due to biometric covariates in upcoming claims-only safety study
+          * Ran simulation studies evaluating bias from nondifferential outcome misclassification and applied validation-based adjustments to recover true effects
+          * Authored several regulatory briefing documents and RTQ responses, ensuring methodological clarity and alignment with FDA expectations
+        
+        * Additional Regulatory, Methodological, and Cross-Functional Contributions
+          * Co-led protocol development for the Effectiveness NCO study, aligning core design elements with the Safety NCO study and adding two new negative control outcomes
+          * Supported global regulatory needs through regulator-mandated safety analyses across U.S. and Japan datasets, identifying cross-regional methodological efficiencies
+          * Contributed to Japan PMO/MOP work through study feasibility assessments and creation of an R Shiny app for automated power/sample size estimation across multiple testing frameworks
+          * Authored key sections of two briefing documents for Japanese biopharma regulator, clarifying misclassification bias and differential attrition concerns in regulator-conducted studies
+          * Coauthored two manuscripts on postoperative outcomes among women with osteoporosis and supported broader publication strategy with bone and publication teams
+          * Evaluated PCORNet network performance to optimize site selection for future claims–EHR linked analyses
+          * Served as a reviewer for Amgen’s internal protocol governance body
+
         
   - title: Senior epidemiologist
     company: Target RWE
