@@ -23,13 +23,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Observational Research Senior Manager
+    company: Amgen
+    company_url: 'https://www.amgen.com'
+    company_logo: Amgen
+    location: Thousand Oaks, CA (remote in Denver, CO)
+    date_start: '2026-05-04'
+    date_end: ''
+    description: |2-
+    
   - title: Observational Research Manager
     company: Amgen
     company_url: 'https://www.amgen.com'
     company_logo: Amgen
     location: Thousand Oaks, CA (remote in Denver, CO)
     date_start: '2024-07-15'
-    date_end: ''
+    date_end: '2026-05-04'
     description: |2-
         Major responsibilities include:
         
