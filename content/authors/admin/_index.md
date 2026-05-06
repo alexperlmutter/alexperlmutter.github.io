@@ -6,7 +6,7 @@ title: Alex Perlmutter
 superuser: true
 
 # Role/position/tagline
-role: Observational Research Manager
+role: Observational Research Senior Manager
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -55,7 +55,7 @@ social:
     link: https://github.com/alexperlmutter
   #- icon: cv
   #  icon_pack: ai
-  #  link: uploads/cv_may_2026.pdf
+  #  link: uploads/cv_feb_2026.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
