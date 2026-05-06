@@ -55,7 +55,7 @@ social:
     link: https://github.com/alexperlmutter
   #- icon: cv
   #  icon_pack: ai
-  #  link: uploads/cv_feb_2026.pdf
+  #  link: uploads/cv_may_2026.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -66,4 +66,4 @@ highlight_name: true
 
 I am an accomplished epidemiologist, who specializes in the principled use and development of advanced causal inference methods for answering pharmacepideiological research questions in numerous therapeutic areas. I currently work at Amgen, a large biotech company, where I support the bone health franchise's generation of real-world evidence on the benefit:risk profile of bone products and related regulatory engagements. Prior to joining Amgen, I was an epidemiologist at Target RWE, where I generated real-world evidence studies in the dermatology and oncology therapeutic areas. I received an MPH and a PhD in Epidemiology from Columbia University Mailman School of Public Health where I had formal training epidemiological methods with a primary focus on causal inference methods.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_feb_26.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_may_26.pdf" "newtab" >}}CV{{< /staticref >}}.
