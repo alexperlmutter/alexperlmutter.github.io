@@ -186,7 +186,9 @@ overview_panel <- wellPanel(
 # ==============================================================================
 # UI DEFINITION
 # ==============================================================================
-ui <- fluidPage(
+ui <- fillPage(
+  padding = 10,
+  fluidPage(
   titlePanel("Proxy Assessment & Target Population Transportability"),
 
   # Insert the overview panel here at the top of the page
@@ -257,6 +259,7 @@ ui <- fluidPage(
         tabPanel("SMD Distribution across Runs",
                  p("Distribution of SMDs across Monte Carlo iterations."),
                  plotOutput("smd_box_plot", height = "480px"))
+      )
       )
     )
   )

@@ -1,5 +1,16 @@
 ---
-title: 'My Apps'
+title: 'My Apps'date: 2026-08-13
+type: page
+layout: single
+# Disable sidebars and extra page meta
+share: false
+show_date: false
+reading_time: false
+# Optional: remove padding around header if using a custom widget
+design:
+  spacing:
+    padding: ['0', '0', '0', '0']
+
 #subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial #content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
