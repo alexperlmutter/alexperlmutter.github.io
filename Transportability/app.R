@@ -122,19 +122,83 @@ run_single_sim <- function(input) {
   bind_rows(smd_res)
 }
 
+library(shiny)
+
+# ==============================================================================
+# APP OVERVIEW & THEORETICAL SUMMARY UI PANEL
+# ==============================================================================
+library(shiny)
+
+# ==============================================================================
+# APP OVERVIEW & THEORETICAL SUMMARY UI PANEL (ROBUST MATHJAX)
+# ==============================================================================
+overview_panel <- wellPanel(
+  style = "background-color: #f8f9fa; border-left: 5px solid #0056b3; margin-bottom: 20px;",
+  withMathJax(
+    tags$div(
+      tags$h2("App Purpose & Theoretical Overview"),
+      tags$p(
+        "The primary purpose of this Shiny application is to demonstrate how proxy-adjustment strategies can control unmeasured confounding in a target population (unlinked claims, \\(S=1\\)) using clinical proxy variables (\\(L\\)) measured in an analytical study population (linked claims–EHR, \\(S=0\\))."
+      ),
+      tags$p(
+        "When an unmeasured confounder \\(U_k\\) (e.g., baseline HbA1c categorized as \\(U_k=1\\) [\\(\\ge 6.5\\%\\)] vs. \\(U_k=0\\) [< 6.5%]) is missing in claims data (\\(S=1\\)), observed claims covariates \\(L\\) can serve as proxies for \\(U_k\\). Standard Inverse Probability of Treatment Weighting (IPTW) on \\(L\\) balances treatment groups (\\(A\\)) with respect to \\(L\\) and, by proxy, \\(U_k\\) within \\(S=0\\). However, because the goal is to address confounding due to \\(U_k\\) in \\(S=1\\) rather than \\(S=0\\), proxy adjustment in the study population alone is insufficient if the joint distribution of \\(L\\) and \\(A\\) differs substantially between \\(S=0\\) and \\(S=1\\)."
+      ),
+      tags$p(
+        "Under proxy sufficiency, proxy adjustment remains consistent across populations if the underlying confounding and proxy mechanisms operate similarly (e.g., \\(L\\) increases the probability of \\(U_k\\) and \\(A\\) in both \\(S=0\\) and \\(S=1\\)). In effect, population linkage may act as a weak effect modifier of the treatment–confounder relationship:"
+      ),
+      tags$p(
+        "\\[ P(A=1 \\mid U_k=1, L, S=0) - P(A=1 \\mid U_k=0, L, S=0) \\neq P(A=1 \\mid U_k=1, L, S=1) - P(A=1 \\mid U_k=0, L, S=1) \\]"
+      ),
+      tags$p(
+        "Additionally, when \\(U_k\\) is a selectively ordered biomarker (available only when test order \\(O_k=1\\)), IPTW on \\(L\\) balances \\(U_k\\) across treatment arms among tested patients (\\(S=0, O_k=1\\)). However, this balance does not automatically extend to untested or unlinked populations if \\(S=0\\) and \\(O_k=1\\) systematically differ in \\(L\\)."
+      ),
+      tags$p(
+        "To transport proxy-adjusted inferences to the target population (\\(S=1\\)), a multi-stage weighting pipeline is required:"
+      ),
+      tags$ul(
+        tags$li(tags$strong("IPTW (\\(W_{\\text{IPTW}}\\)): "), "Adjusts for confounding (differences in \\(U\\) and \\(L\\) between \\(A\\)) based only on measured proxies \\(L\\)."),
+        tags$li(tags$strong("IPSW (\\(W_{\\text{IPSW}}\\)): "), "Adjusts for selective test ordering \\(O_k\\) to transport inferences from tested patients \\(O_k=1\\) to the full linked population \\(S=0\\)."),
+        tags$li(tags$strong("SMR (\\(W_{\\text{SMR}}\\)): "), "Adjusts for linkage selection \\(S\\) to transport inferences from the linked population \\(S=0\\) to the unlinked target population \\(S=1\\).")
+      ),
+      tags$hr(),
+      tags$h3("Simulation Mechanics & Key Insights"),
+      tags$p(
+        "This application uses Monte Carlo simulation to evaluate how combining these weighting strategies affects proxy performance and covariate balance across different target populations:"
+      ),
+      tags$ul(
+        tags$li(
+          tags$strong("Tested Study Sample (\\(S=0, O_k=1\\)): "),
+          "IPTW alone achieves optimal proxy adjustment for \\(U_k\\) in the observed complete-case sample because test ordering \\(O_k\\) is held constant."
+        ),
+        tags$li(
+          tags$strong("Target Population Transportability (\\(S=1\\) or Total \\(N\\)): "),
+          "When transporting inferences to populations that differ from \\(S=0, O_k=1\\), joint weighting schemes (e.g., IPTW + IPSW + SMR) account for selection differences in \\(L\\), \\(S\\), and \\(O_k\\). Proxy adjustment is less effective."
+        ),
+        tags$li(
+          tags$strong("Interactive Assumption Testing: "),
+          "Users can dynamically manipulate data-generating parameters—including the unlinked population proportion, proxy strength (\\(L \\rightarrow U_k\\)), linkage selection (\\(L \\rightarrow S\\)), test ordering drivers (\\(L, A \\rightarrow O_k\\)), and causal shifts (\\(O_k \\rightarrow U_k\\))—to evaluate estimator performance under varying observational conditions."
+        )
+      )
+    )
+  )
+)
+
 # ==============================================================================
 # UI DEFINITION
 # ==============================================================================
 ui <- fluidPage(
   titlePanel("Proxy Assessment & Target Population Transportability"),
 
+  # Insert the overview panel here at the top of the page
+  overview_panel,
+
   sidebarLayout(
     sidebarPanel(
       width = 4,
       h4("Monte Carlo Settings"),
-      numericInput("n_sims", "Number of Simulations:", value = 100, min = 10, max = 1000, step = 50),
-      numericInput("n_pop", "Sample Size (N per sim):", value = 5000, min = 1000, max = 20000, step = 1000),
-      sliderInput("pct_unlinked", "Unlinked Population (%):", min = 10, max = 80, value = 50, step = 5),
+      numericInput("n_sims", "Number of Simulations:", value = 1000, min = 10, max = 1000, step = 50),
+      numericInput("n_pop", "Sample Size (N per sim):", value = 5000, min = 1000, max = 200000, step = 2000),
+      sliderInput("pct_unlinked", "Unlinked Population (%):", min = 10, max = 100, value = 90, step = 5),
 
       hr(),
       h4("Claims Covariates L (Linked vs Unlinked %)"),
