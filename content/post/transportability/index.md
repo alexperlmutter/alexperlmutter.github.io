@@ -43,4 +43,4 @@ title: 'My Apps'
 ---
 
 
-<iframe width="1000" height="900" src="https://6zkiod-alexperlmutter.shinyapps.io/Transportability/"></iframe>
+<iframe width="700" height="650" src="https://6zkiod-alexperlmutter.shinyapps.io/Transportability/"></iframe>
