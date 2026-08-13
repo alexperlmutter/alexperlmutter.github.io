@@ -1,17 +1,5 @@
 ---
----
 title: 'My Apps'
-date: 2026-08-13
-type: page
-layout: single
-# Disable sidebars and extra page meta
-share: false
-show_date: false
-reading_time: false
-# Optional: remove padding around header if using a custom widget
-design:
-  spacing:
-    padding: ['0', '0', '0', '0']
 #subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial #content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
@@ -55,4 +43,4 @@ design:
 ---
 
 
-<iframe width="100" height="900" src="https://6zkiod-alexperlmutter.shinyapps.io/Transportability/"></iframe>
+<iframe width="1000" height="900" src="https://6zkiod-alexperlmutter.shinyapps.io/Transportability/"></iframe>
