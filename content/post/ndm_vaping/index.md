@@ -1,5 +1,5 @@
 ---
-title: 'My dissertation Shiny apps'
+title: 'My Apps'
 #subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial #content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
@@ -43,6 +43,4 @@ title: 'My dissertation Shiny apps'
 ---
 
 
-<iframe width="700" height="650" src="https://6zkiod-alexperlmutter.shinyapps.io/INDM2/"></iframe>
-
-<iframe width="700" height="800" src="https://6zkiod-alexperlmutter.shinyapps.io/DNDM/"></iframe>
+<iframe width="700" height="650" src="https://6zkiod-alexperlmutter.shinyapps.io/Transportability/"></iframe>
