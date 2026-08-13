@@ -43,5 +43,3 @@ Click here to go to [apps](./post/ndm_vaping/).
 {{% /callout %}}
 
 <iframe width="700" height="650" src="https://6zkiod-alexperlmutter.shinyapps.io/Transportability/"></iframe>
-
-<iframe width="700" height="800" src="https://6zkiod-alexperlmutter.shinyapps.io/DNDM/"></iframe>
