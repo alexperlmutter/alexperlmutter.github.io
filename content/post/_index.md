@@ -1,5 +1,5 @@
 ---
-title: "Understanding Transportability"
+title: "Sequential weighting to understand transport information about confounding and selection between populations"
 date: 2026-08-14
 summary: "An interactive app demonstrating sequential weighting to adjust for transport, selective ordering, and treatment group differences."
 
@@ -7,7 +7,7 @@ links:
   - icon: external-link
     icon_pack: fas
     name: Shiny App
-    url: https://alexperlmutter.shinyapps.io/Transportability/
+    url: 6zkiod-alexperlmutter.shinyapps.io/Transportability/
 
 # View.
 #   1 = List
