@@ -1,7 +1,7 @@
 ---
-title: "Understanding Measures of Association"
+title: "Understanding Transportability"
 date: 2026-08-14
-summary: "An interactive app demonstrating cohort and case-control metrics."
+summary: "An interactive app demonstrating sequential weighting to adjust for transport, selective ordering, and treatment group differences."
 
 links:
   - icon: external-link

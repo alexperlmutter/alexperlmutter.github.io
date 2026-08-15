@@ -1,9 +1,13 @@
 ---
-title: 'My Apps'
-#subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial #content to help you get familiar with everything in no time.
+title: "Understanding Transportability"
+date: 2026-08-14
+summary: "An interactive app demonstrating sequential weighting to adjust for transport, selective ordering, and treatment group differences."
 
-# Summary for listings and search engines
-#summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial #content to help you get familiar with everything in no time.
+links:
+  - icon: external-link
+    icon_pack: fas
+    name: Shiny App
+    url: https://alexperlmutter.shinyapps.io/Transportability/
 
 # Link this post with a project
 #projects: []
