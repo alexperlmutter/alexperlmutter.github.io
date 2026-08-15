@@ -6,7 +6,7 @@ tags:
 date: '2022-06-16T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://alexperlmutter.shinyapps.io/Transportability/'
 
 image:
   caption: Photo by rawpixel on Unsplash
