@@ -7,7 +7,7 @@ links:
   - icon: external-link
     icon_pack: fas
     name: Shiny App
-    url: https://alexperlmutter.shinyapps.io/Transportability/
+    url: 6zkiod-alexperlmutter.shinyapps.io/Transportability/
 
 # Link this post with a project
 #projects: []
